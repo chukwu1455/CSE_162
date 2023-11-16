@@ -1,1 +1,3 @@
-#CSE_162: PC UPGRADE AND MAINTENANCE CLASS
+This is my practice class
+It holds every Thursday
+The name of our Instructor is: Mr. Chuks
